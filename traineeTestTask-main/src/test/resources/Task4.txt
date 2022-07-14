@@ -1,0 +1,2 @@
+<button class="search3__button mini-suggest__button" type="submit" tabindex="-1" aria-label="Найти">
+<svg class="search3__button-svg" width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -1,0 +1,2 @@
+select orders.order_id, orders.promocode_id, (orders.order_id / orders.promocode_id)*100 as PromocodeProcent FROM orders A
+inner join (select promocode_id, name from  promocodes group by promocode_id)
